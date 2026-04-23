@@ -78,6 +78,6 @@ The proposed QDC model provides:
 - Performance metrics (Precision, Recall, F1-score)
 
 👩‍💻 Author:
-S. Aisha Siddika
+M. Ram Kumar
 B.Tech – Computer Science & Engineering
 """
